@@ -122,5 +122,5 @@ OrderRepository has public method getOrderList, which can be used to generate a 
 
 
 
-![Screenshot](Dilagram.jpeg)
+![Dilagram](Dilagram.jpeg)
 
