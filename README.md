@@ -120,3 +120,7 @@ REQ25:
 
 OrderRepository has public method getOrderList, which can be used to generate a complete list of movies for all active "not delivered" orders for a user, given a username. The geographical destination implementation will be computed use the SystemUser info associated with the given order that the movies are associated to.
 
+
+
+![Screenshot](screenshot.png)
+
